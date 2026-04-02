@@ -1,0 +1,10 @@
+{"data_name": "embedded_img", "label": "benign", "num_triggered": 8, "num_low_vsi": 8, "num_attack_action": 0, "action_type_counter": {}}
+{"data_name": "screenshot", "label": "benign", "num_triggered": 37, "num_low_vsi": 21, "num_attack_action": 16, "action_type_counter": {"link_invitation": 28, "control_instruction": 1, "position_click": 2}}
+{"data_name": "EIA", "label": "malicious", "num_triggered": 15, "num_low_vsi": 0, "num_attack_action": 15, "action_type_counter": {"position_click": 6, "control_instruction": 9, "link_invitation": 2}}
+{"data_name": "VPI-browser-use", "label": "malicious", "num_triggered": 40, "num_low_vsi": 0, "num_attack_action": 40, "action_type_counter": {"link_invitation": 49, "control_instruction": 5}}
+{"data_name": "VPI-computer-use", "label": "malicious", "num_triggered": 53, "num_low_vsi": 18, "num_attack_action": 35, "action_type_counter": {"position_click": 18, "control_instruction": 35}}
+{"data_name": "VWA_adv_embedded_img", "label": "malicious", "num_triggered": 223, "num_low_vsi": 223, "num_attack_action": 0, "action_type_counter": {}}
+{"data_name": "VWA_adv_screenshot", "label": "malicious", "num_triggered": 0, "num_low_vsi": 0, "num_attack_action": 0, "action_type_counter": {}}
+{"data_name": "WebInject", "label": "malicious", "num_triggered": 265, "num_low_vsi": 265, "num_attack_action": 0, "action_type_counter": {}}
+{"data_name": "popup", "label": "malicious", "num_triggered": 76, "num_low_vsi": 0, "num_attack_action": 76, "action_type_counter": {"position_click": 76, "link_invitation": 1}}
+{"data_name": "wasp", "label": "malicious", "num_triggered": 0, "num_low_vsi": 0, "num_attack_action": 0, "action_type_counter": {}}

@@ -1,0 +1,10 @@
+{"data_name": "embedded_img", "label": "benign", "num_triggered": 14, "num_low_vsi": 8, "num_attack_action": 6, "action_type_counter": {"link_invitation": 6}}
+{"data_name": "screenshot", "label": "benign", "num_triggered": 128, "num_low_vsi": 21, "num_attack_action": 107, "action_type_counter": {"link_invitation": 87, "position_click": 6, "control_instruction": 41}}
+{"data_name": "EIA", "label": "malicious", "num_triggered": 416, "num_low_vsi": 0, "num_attack_action": 416, "action_type_counter": {"control_instruction": 539, "position_click": 26, "credential_request": 1, "link_invitation": 75}}
+{"data_name": "VPI-browser-use", "label": "malicious", "num_triggered": 66, "num_low_vsi": 0, "num_attack_action": 66, "action_type_counter": {"credential_request": 17, "link_invitation": 54, "position_click": 3, "control_instruction": 47}}
+{"data_name": "VPI-computer-use", "label": "malicious", "num_triggered": 184, "num_low_vsi": 18, "num_attack_action": 166, "action_type_counter": {"position_click": 35, "credential_request": 9, "control_instruction": 146, "link_invitation": 3}}
+{"data_name": "VWA_adv_embedded_img", "label": "malicious", "num_triggered": 224, "num_low_vsi": 223, "num_attack_action": 1, "action_type_counter": {"link_invitation": 1}}
+{"data_name": "VWA_adv_screenshot", "label": "malicious", "num_triggered": 31, "num_low_vsi": 0, "num_attack_action": 31, "action_type_counter": {"link_invitation": 44, "control_instruction": 7}}
+{"data_name": "WebInject", "label": "malicious", "num_triggered": 275, "num_low_vsi": 265, "num_attack_action": 10, "action_type_counter": {"control_instruction": 10}}
+{"data_name": "popup", "label": "malicious", "num_triggered": 140, "num_low_vsi": 0, "num_attack_action": 140, "action_type_counter": {"position_click": 137, "link_invitation": 17, "control_instruction": 5}}
+{"data_name": "wasp", "label": "malicious", "num_triggered": 78, "num_low_vsi": 0, "num_attack_action": 78, "action_type_counter": {"link_invitation": 103, "control_instruction": 14, "position_click": 47, "credential_request": 1}}
