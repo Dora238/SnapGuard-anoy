@@ -361,4 +361,3 @@ dependencies:
       - widgetsnbextension==4.0.11
       - xxhash==3.4.1
       - yarl==1.20.1
-prefix: /home/Mengyao/miniconda3/envs/pidefense
